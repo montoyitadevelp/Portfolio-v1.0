@@ -1,4 +1,4 @@
-import avatar from "../assets/img/AvatarMontoyitaDev.jpeg"
+import avatar from "../assets/img/Coding.jpeg"
 import ts from '../assets/svg/ts.svg'
 import react from '../assets/svg/react.svg'
 import js from '../assets/svg/js.svg'
